@@ -4,6 +4,7 @@ Pré-requisitos:
 1 - MondoDB instalado e configurado na porta: 27017 e host: localhost
 2 - Maven versão 3.5.4 ou superior
 
+
 Passo a passo:
 1 - Inicialize o MongoDB com o comando: mongod --port 27017
 2 - Descompate o zip do projeto e navegue até o diretório onde se encontra o arquivo pom.xml
